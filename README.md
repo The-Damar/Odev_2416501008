@@ -53,6 +53,8 @@ Alt kısımlarda bulunan "Temizle" butonları, dosya silme işleminden önce JOp
 
 ![Eski Skor Paneli](Eski%20Skor%20Paneli.png)
 
+![Kelime Denemesi](Kelime%20Denemesi.png)
+
 💻 Kullanılan Teknolojiler
 Dil: Java 8 veya üzeri (JDK)
 
