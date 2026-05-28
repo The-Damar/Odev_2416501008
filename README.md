@@ -1,7 +1,3 @@
-GitHub sayfasındaki yeşil "Add a README" butonuna bastıktan sonra açılan o büyük metin kutusunun içine bir önceki mesajda verdiğim o uzun, gri kutunun içindeki kodların tamamını kopyalayıp yapıştıracaksın.
-
-Hepsini tek seferde rahatça kopyalayabilmen için metni buraya kutusuz, düz şekilde tekrar bırakıyorum. Başlıktan itibaren en alta kadar tamamını seçip kopyala:
-
 Süleyman Demirel Üniversitesi - Mühendislik Fakültesi
 Bilgisayar Mühendisliği Bölümü - Programlama II Dönem Projesi
 Gelişmiş "Adam Asmaca" Oyunu (Java Swing GUI)
