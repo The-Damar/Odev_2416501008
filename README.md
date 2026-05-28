@@ -23,7 +23,7 @@ C:\P2Oyun\
 
 3 Hak Sınırı ile Giriş: Şifre kayıtlı ise kullanıcıya 3 giriş hakkı tanınır. Girilen şifreler dosyadaki veriyle runtime esnasında doğrulanır. 3 defa hatalı şifre girilmesi durumunda program System.exit(0); fonksiyonu ile tamamen sonlandırılır.
 
-![](Şifre Deneme Ekranı.png)
+![Şifre Giriş Ekranı](sifre_ekrani.png)
 
 2. Zaman Damgalı Loglama Sistemi 
 Kullanıcının her şifre denemesinde, başarılı/başarısız girişlerinde ve veri temizleme taleplerinde java.time.LocalDateTime sınıfı kullanılarak [yyyy-MM-dd HH:mm:ss] formatında zaman damgaları (timestamp) üretilir ve log.txt dosyasına append (ekleme) moduyla yazılır.
