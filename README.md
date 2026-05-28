@@ -44,10 +44,14 @@ Görsel Durum Değişimi: Kullanıcının her hatalı harf veya kelime tahminind
 
 Sürekli Sayaç Kontrolü: Oyun başladığı an javax.swing.Timer saniyelik (1000ms) interval ile asenkron olarak çalışır ve lblSure alanını günceller. Oyun bitiminde elde edilen veriler doğrudan oyunlar.txt dosyasına raporlanır.
 
+![Oyun Paneli](Oyun%20Paneli.png)
+
 5. JTable Listeleme ve Güvenli Temizleme
 Hem Eski Skorlar hem de Loglar sekmelerinde veriler ham metin olarak değil, DefaultTableModel mimarisiyle JTable nesnelerine satır satır (addRow) eklenerek kullanıcıya şık bir grid yapısında sunulur.
 
 Alt kısımlarda bulunan "Temizle" butonları, dosya silme işleminden önce JOptionPane.showInputDialog ile yönetim şifresi talep eder. Doğrulama başarılı ise ilgili dosya stream'i false parametresiyle açılarak içerik tamamen temizlenir ve sistem logu düşülür.
+
+![Eski Skor Paneli](Eski%20Skor%20Paneli.png)
 
 💻 Kullanılan Teknolojiler
 Dil: Java 8 veya üzeri (JDK)
