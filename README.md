@@ -28,7 +28,9 @@ C:\P2Oyun\
 2. Zaman Damgalı Loglama Sistemi 
 Kullanıcının her şifre denemesinde, başarılı/başarısız girişlerinde ve veri temizleme taleplerinde java.time.LocalDateTime sınıfı kullanılarak [yyyy-MM-dd HH:mm:ss] formatında zaman damgaları (timestamp) üretilir ve log.txt dosyasına append (ekleme) moduyla yazılır.
 
-3. JMenuBar ve JTabbedPane ile Katmanlı Mimari
+![Log Paneli](Log%20Paneli.png)
+
+4. JMenuBar ve JTabbedPane ile Katmanlı Mimari
 Proje en üst seviyede bir JMenuBar (Seçenekler -> Oyuna Başla / Yeniden Başlat) içerir.
 
 Ana ekran JTabbedPane ile 3 farklı fonksiyonel sekmeye bölünmüştür: Oyun Oyna, Eski Skorlar ve Loglar.
